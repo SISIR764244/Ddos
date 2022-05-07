@@ -1,0 +1,7 @@
+pkg update 
+pkg upgrade 
+pkg install python 
+pkg install python2
+pak install git 
+pkg install pip
+pkg install pip2
